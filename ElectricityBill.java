@@ -17,5 +17,6 @@ public class ElectricityBill {
             bill = (100 * 0.50) + (100 * 0.75) + (100 * 1.20) + ((units - 300) * 1.50);
 
         System.out.println("Total Electricity Bill: ₹" + bill);
+        
     }
 }

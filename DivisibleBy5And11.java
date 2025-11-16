@@ -11,5 +11,6 @@ public class DivisibleBy5And11 {
             System.out.println(num + " is divisible by both 5 and 11.");
         else
             System.out.println(num + " is NOT divisible by both 5 and 11.");
+        
     }
 }
